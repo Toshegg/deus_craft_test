@@ -1,0 +1,6 @@
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\bin\Debug\TestDeusCraft.exe.config
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\bin\Debug\TestDeusCraft.exe
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\bin\Debug\TestDeusCraft.pdb
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\obj\Debug\TestDeusCraft.csprojResolveAssemblyReference.cache
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\obj\Debug\TestDeusCraft.exe
+c:\users\тс\documents\visual studio 2015\Projects\TestDeusCraft\TestDeusCraft\obj\Debug\TestDeusCraft.pdb
